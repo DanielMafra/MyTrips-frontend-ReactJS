@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+  padding: 10px 10px;
+}
+
+.reserve{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.reserve div{
+  text-align: right;
+  margin-left: 10px;
+}
+
+.reserve strong{
+  color: #000;
+  display: block;
+}
+
+.reserve span{
+  color: #191919;
+  font-size: 15px;
+}

@@ -1,0 +1,16 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 1
+    }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "title": "YOUR_TITLE",
+      "status": true,
+      "image": "YOUR_URL_IMAGE"
+    }
+  ]
+}

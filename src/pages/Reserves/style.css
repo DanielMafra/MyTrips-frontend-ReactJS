@@ -1,0 +1,28 @@
+.title{
+  color: #191919;
+}
+
+.reserves{
+  padding: 20px;
+  margin-bottom: 10px;
+  background: #fff;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reserves img{
+  height: 100px;
+  border-radius: 4px;
+}
+
+.reserves button{
+  border: 0;
+  background: #fff;
+}
+
+.reserves #amount{
+  display: flex;
+  align-items: center;
+}
